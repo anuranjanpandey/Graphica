@@ -1,0 +1,82 @@
+body
+{
+	margin:20px;	
+	font:26px sans serif;
+	background-color:lightcyan; 
+	
+}
+a{
+	text-decoration: none;
+	font-size: 26px;
+
+}
+a:hover
+{
+	color:red;
+	font-size: 28px;
+}
+.feat
+{
+	text-align: center;
+	text-decoration:none;
+}
+.feat:hover
+{
+	color:red;
+	font-size: 28px;
+}
+#pe
+{
+	display: inline;
+}
+.head1
+{
+	background-image: url('https://iiot-world.com/wp-content/uploads/2019/03/shutterstock_676537567-e1551704388867.jpg');
+	height:400px;
+	width:100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	padding:100px;
+	font-size: 40px;
+	color:orange;
+}
+.contact
+{
+	background-color: cyan;
+	color:white;
+	margin:0px;
+	text-align: center;
+	bottom:0px;
+}
+
+.buttons
+{
+	border-style: none;
+	border-radius: 20px;
+}
+.ig
+{
+	width:63px;
+	height:63px;
+	right:0px;
+	bottom:550px;
+	position: fixed;
+	background-image: url('ig.jpg');
+}
+.top
+{
+	right: 0px;
+	position: fixed;
+	bottom: 10px;
+}
+.fb
+{
+	width:63px;
+	height:63px;
+	right:0px;
+	bottom:622px;
+	position: fixed;
+	background-image: url('fb.jpg');
+}
